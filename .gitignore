@@ -1,0 +1,15 @@
+/Library/
+/obj/
+/Temp/
+/.vs/
+/Logs/
+/.vsconfig
+*.csproj
+*.sln
+/WebGl/
+*.apk
+*.aab
+/Builds/
+/.idea/
+/Build/
+/UserSettings/AndroidLogcatSettings.asset
